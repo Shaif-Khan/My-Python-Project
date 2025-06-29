@@ -1,3 +1,4 @@
+<img src="https://cdnl.iconscout.com/lottie/premium/thumb/python-animated-icon-download-in-lottie-json-gif-static-svg-file-formats--logo-service-application-programming-script-mobile-development-pack-design-icons-9108741.gif">
 🐍 Python Data Analysis & Machine Learning Projects
 Pandas | Jupyter Notebook | Scikit-learn | Data Mining | EDA
 
